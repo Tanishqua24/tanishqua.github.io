@@ -1,0 +1,103 @@
+* {
+    margin: 0
+}
+
+body {
+    background: linear-gradient(45deg, rgb(97, 50, 205), rgb(80, 205, 255), rgb(97, 50, 205));
+}
+
+#header {
+    background-color: black;
+    height: 70px;
+}
+
+#brand {
+    text-align: center;
+    width: 40%;
+    float: left;
+    color: rgb(243, 242, 236);
+    line-height: 70px;
+}
+
+a {
+    color: cornsilk;
+    text-decoration: none;
+    margin-right: 25px;
+}
+
+#menu {
+    text-align: center;
+    float: right;
+    width: 60%;
+    line-height: 70px;
+}
+
+#title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#lipsticks {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+#nykaa {
+    background: linear-gradient( 45deg, rgb(0, 139, 127), black);
+    width: 50%;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 10px auto;
+}
+
+#sc {
+    background: linear-gradient( 45deg, rgb(0, 139, 127), black);
+    width: 50%;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 10px auto;
+    text-align: center;
+}
+
+#hr {
+    background: linear-gradient( 45deg, rgb(0, 139, 127), black);
+    width: 50%;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 10px auto;
+    text-align: center;
+}
+
+#nl {
+    background: linear-gradient( 45deg, rgb(0, 139, 127), black);
+    width: 50%;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 10px auto;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    margin: 15px;
+    text-align: center;
+}
+
+img {
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+}
+
+#footer {
+    text-align: center;
+    background: black;
+    color: cornsilk;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 30px;
+}
